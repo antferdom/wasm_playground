@@ -187,5 +187,5 @@ Server listening on port: 3000
 
    5.3 The output will be in the **console**
 
-![wasm_square_browser](/Users/antonio/Desktop/labs/wasm/playground/docs/img/wasm_square_browser.png)
+![wasm_square_browser](../docs/img/wasm_square_browser.png)
 
