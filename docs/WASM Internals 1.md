@@ -153,7 +153,7 @@ antonio@Antonios-imac playground %
 2. Package.json
 ```json
 ...
-"type": "moudle"
+"type": "module"
 ...
 ```
 
