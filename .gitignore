@@ -3,4 +3,4 @@
 # Documentation folder
 docs/img
 # Node modules
-/node_modules
+node_modules
