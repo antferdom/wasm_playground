@@ -189,3 +189,11 @@ Server listening on port: 3000
 
 ![wasm_square_browser](../docs/img/wasm_square_browser.png)
 
+
+
+# References
+
+1. [Chris Hay Youtube channel](https://www.youtube.com/channel/UCncVoOXAma1zJUNTJGL6Ncw). Special thanks to him and his great work which led me to this field.
+2. [Programming WebAssembly with Rust, by Kevin Hoffman (book)](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)
+3. [Understanding WebAssembly text format, MDN Web Docs](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format)
+4. [Converting WebAssembly text format to wasm, MDN Web Docs](https://developer.mozilla.org/en-US/docs/WebAssembly/Text_format_to_wasm)
