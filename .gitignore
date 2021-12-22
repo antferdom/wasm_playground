@@ -2,3 +2,5 @@
 .DS_Store
 # Documentation folder
 /docs
+# Node modules
+/node_modules
