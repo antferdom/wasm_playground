@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Experiment with WASM</title>
+        <!-- Call function square and then output the result to the console -->
+        <script type="module">
+            // Fetching the wasm module in the public folder.
+            WebAssembly.instantiateStreaming(fetch('math.wasm'))
+            .then(obj => {
+                // Calling the function square and passing 10 as a parameter.
+                var result = obj.instance.exports.square(10);
+                console.log(result);
+            })
+        </script>
+    </head>
+    <body></body>
+</html>
