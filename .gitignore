@@ -1,6 +1,6 @@
 # Automatic generated metadata
 .DS_Store
 # Documentation folder
-/docs
+docs/img
 # Node modules
 /node_modules
