@@ -1,0 +1,16 @@
+{
+  "name": "wasm_playground_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jest": "^27.5.1"
+  }
+}
